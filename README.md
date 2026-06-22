@@ -43,13 +43,10 @@ Account balance is declared private and can only be accessed through getter and 
 ### 3. Inheritance
 Derived classes inherit common properties and methods from the BankAccount base class.
 
-```text
-BankAccount
-│
-├── SavingsAccount
-├── CheckingAccount
-└── FixedDepositAccount
-## OUTPUT
+
+
+
+### 4. OUTPUT
 
 ![Output](./output.jpeg)
 
