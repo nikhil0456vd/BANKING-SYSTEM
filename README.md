@@ -51,5 +51,5 @@ BankAccount
 └── FixedDepositAccount
 ## OUTPUT
 
-![Output](./output.jpeg))
+![Output](./output.jpeg)
 
